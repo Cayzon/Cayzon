@@ -1,6 +1,5 @@
 # 👋 Hi, I’m Cayzon
-- 💗 i love microsoft fluent design system
-- 🌱 I’m currently learning Typescript, react, deno and discord api
+- 🌱 I’m currently learning Typescript, react, deno and rust
 
 
 <!---
